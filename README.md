@@ -465,4 +465,4 @@ From here, everything you automate becomes cleaner, faster, and easier to mainta
 # Next Steps
 
 This repo is part of a broader scripting foundation series.  
-Check out the **Python** and **PowerShell** versions for matching automation patterns across languages.
+Check out the [**Python**](https://github.com/VenalityXT/Python-Fundamentals) and [**PowerShell**](https://github.com/VenalityXT/Powershell-Fundamentals) versions for matching automation patterns across languages.
